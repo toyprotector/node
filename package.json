@@ -1,0 +1,17 @@
+{
+  "name": "nodeiro",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No testing script found.\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "laugh"
+  ],
+  "license": "GPL"
+}
